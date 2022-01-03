@@ -9,5 +9,6 @@ public class ab {
         System.out.println("hello_git4");
         System.out.println("hello_git4_hot_fix");
         System.out.println("ssh");
+        System.out.println("pull");
     }
 }
